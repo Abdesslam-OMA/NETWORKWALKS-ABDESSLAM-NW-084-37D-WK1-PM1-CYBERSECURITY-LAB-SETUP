@@ -1,11 +1,5 @@
 # Week 1 -- Project Module 1: Practical Cybersecurity Lab Environment Setup
 
-> **Internship:** Networkwalks -- Cybersecurity Internship\
-> **Module:** Week 1 \| Project Module 1 (WK1-PM1)\
-> **Status:** Completed
-> **Author:** Abdesslam Mouffok
-> **Date:** 01/11/2026
-
 ## 1. Overview
 
 This project documents the setup of a virtual cybersecurity practice
@@ -117,7 +111,7 @@ indicated.
 
 **Evidence:** 
 
-![VirtualBox version](screenshots/01-Virtualbox-version.png)
+![VirtualBox version](https://github.com/Abdesslam-OMA/NETWORKWALKS-ABDESSLAM-NW-084-37D-WK1-PM1-CYBERSECURITY-LAB-SETUP/blob/2e446a8604665cac2d43c086acb84f37a57a1581/screenshots/01-Virtualbox-version.png)
 
 ### Step 2 -- Create the NAT Network
 
@@ -128,7 +122,7 @@ indicated.
 
 **Evidence:** 
 
-![VirtualBox version](screenshots/02-nat-network-settings.png)
+![VirtualBox version](https://github.com/Abdesslam-OMA/NETWORKWALKS-ABDESSLAM-NW-084-37D-WK1-PM1-CYBERSECURITY-LAB-SETUP/blob/2e446a8604665cac2d43c086acb84f37a57a1581/screenshots/02-nat-network-settings.png)
 
 ### Step 3 -- Import Kali Linux
 
@@ -139,7 +133,7 @@ indicated.
 
 **Evidence:** 
 
-![VirtualBox version](screenshots/03-kali-ip-address.png)
+![VirtualBox version](https://github.com/Abdesslam-OMA/NETWORKWALKS-ABDESSLAM-NW-084-37D-WK1-PM1-CYBERSECURITY-LAB-SETUP/blob/2e446a8604665cac2d43c086acb84f37a57a1581/screenshots/03-kali-ip-address.png)
 
 ### Step 4 -- Configure the Kali Linux VM
 
@@ -153,7 +147,7 @@ indicated.
 
 **Evidence:** 
 
-![VirtualBox version](screenshots/04-network-connectivity.png)
+![VirtualBox version](https://github.com/Abdesslam-OMA/NETWORKWALKS-ABDESSLAM-NW-084-37D-WK1-PM1-CYBERSECURITY-LAB-SETUP/blob/2e446a8604665cac2d43c086acb84f37a57a1581/screenshots/04-network-connectivity.png)
 
 ### Step 5 -- Create a VM snapshot
 
@@ -164,7 +158,7 @@ indicated.
 
 **Evidence:** 
 
-![VirtualBox version](screenshots/05-virtualbox-snapshot.png)
+![VirtualBox version](https://github.com/Abdesslam-OMA/NETWORKWALKS-ABDESSLAM-NW-084-37D-WK1-PM1-CYBERSECURITY-LAB-SETUP/blob/2e446a8604665cac2d43c086acb84f37a57a1581/screenshots/05-virtualbox-snapshot.png)
 
 ## 6. Verification checklist
 
@@ -238,8 +232,7 @@ sudo nmcli connection up "Wired connection 1"
 
 -   Networkwalks, **Week 1 \| Project Module 1 -- Practical Lab
     Environment Setup** (internship task sheet).
--   [Oracle VirtualBox
-    Downloads](https://www.virtualbox.org/wiki/Downloads)
+-   [Oracle VirtualBox  Downloads](https://www.virtualbox.org/wiki/Downloads)
 -   [Kali Linux -- Get Kali](https://www.kali.org/get-kali/)
 -   [7-Zip Downloads](https://www.7-zip.org/download.html)
 
